@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 4
 
-   Author: 
-   Date:   
+   Author: Ryan Burkhart
+   Date: 3/4/19  
    
    Filename: vw_results.js
    
